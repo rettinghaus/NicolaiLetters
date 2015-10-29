@@ -10,14 +10,14 @@
       <publicationStmt>
         <publisher>Klaus Rettinghaus</publisher>
         <idno type="url">http://rettinghaus.github.io/NicolaiLetters/NicolaiLetters.xml</idno>
-        <date when="2015-10-23T18:46:57.440979" />
+        <date when="2015-10-29T16:13:28.741350"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print">
-          <ref target="http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-57390">Klaus Rettinghaus: Studien zum geistlichen Werk Otto Nicolais</ref>
+          <ref target="http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-57390">Klaus Rettinghaus: Studien zum geistlichen Werk Otto Nicolais, Berlin 2014</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -26,7 +26,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
-          <date when="1820-04-29" />
+          <date when="1820-04-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -36,7 +36,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
-          <date when="1820-10-18" />
+          <date when="1820-10-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+          <date when="1820-12-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+          <date when="1821-07-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -46,7 +66,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
-          <date when="1820-12-30" />
+          <date when="1821-12-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -55,8 +75,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
-          <date when="1821-07-25" />
+          <date when="1826-02-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -65,26 +84,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
-          <date when="1821-12-29" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <date when="1826-02-16" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <date when="1826-08-06" />
+          <date when="1826-08-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -94,7 +94,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1828-10-17" />
+          <date when="1828-10-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName cert="medium" ref="http://d-nb.info/gnd/118636421">[Carl Friedrich Zelter]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1829-05-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118636421">Carl Friedrich Zelter</persName>
@@ -104,17 +114,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1829-05-05" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118636421">Carl Friedrich Zelter</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1830-10-15" />
+          <date when="1830-10-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/10145004-7">Lieder-Verein Berlin 1829</persName>
@@ -124,7 +124,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1830-12-12" />
+          <date when="1830-12-12"/>
         </correspAction>
         <correspAction type="received">
           <persName>Sing-Akademie zu Berlin</persName>
@@ -134,7 +134,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1831-05-13" />
+          <date when="1831-05-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/13702035X">Ferdinand Mendheim</persName>
@@ -144,7 +144,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2878986">Leitzkau</placeName>
-          <date when="1831-06-21" />
+          <date when="1831-06-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1042645949">Gustav Bethge</persName>
@@ -154,7 +154,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
-          <date when="1831-09-09" />
+          <date when="1831-09-09"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -164,7 +164,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
-          <date when="1831-09-10" />
+          <date when="1831-09-10"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -174,7 +174,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName>Magdeburg</placeName>
-          <date when="1831-09-13" />
+          <date when="1831-09-13"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Ein Operndirektor in Magdeburg]</persName>
@@ -184,7 +184,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2878986">Leitzkau</placeName>
-          <date when="1831-09-23" />
+          <date when="1831-10-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName cert="medium">[Freund in Halle]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2878986">Leitzkau</placeName>
+          <date when="1831-09-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116898666">Johann Friedrich Naue</persName>
@@ -194,7 +204,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-01-28" />
+          <date when="1832-01-28"/>
         </correspAction>
         <correspAction type="received">
           <persName>Ältere Liedertafel</persName>
@@ -204,7 +214,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-02-28" />
+          <date when="1832-02-28"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -214,7 +224,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-03-03" />
+          <date when="1832-03-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -224,7 +234,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-03-22" />
+          <date when="1832-03-22"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -234,7 +244,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-03-24" />
+          <date when="1832-03-24"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1042645949">Gustav Bethge</persName>
@@ -244,7 +254,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1832-04-09" />
+          <date when="1832-04-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -254,17 +264,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-04-12" />
+          <date when="1832-04-12"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-06-13" />
+          <date when="1832-06-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -274,7 +284,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3088171">Posen</placeName>
-          <date when="1832-08-11" />
+          <date when="1832-08-11"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1042645949">Gustav Bethge</persName>
@@ -284,7 +294,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3088171">Posen</placeName>
-          <date when="1832-08-21" />
+          <date when="1832-08-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117738131">Raimund Härtel</persName>
@@ -294,7 +304,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-10-03" />
+          <date when="1832-10-03"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Verleger]</persName>
@@ -304,7 +314,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-10-19" />
+          <date when="1832-10-19"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -314,7 +324,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-10-19" />
+          <date when="1832-10-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117738131">Raimund Härtel</persName>
@@ -324,7 +334,34 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-11-22" />
+          <date when="1832-11-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1832"/>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date when="1833-02-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date when="1833-02-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -334,34 +371,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1832-12-31" />
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1833-02-05" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1833-02-28" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-04-30" />
+          <date when="1833-04-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -371,7 +381,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-05-22" />
+          <date when="1833-05-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -381,7 +391,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-05-22" />
+          <date when="1833-05-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118535986">König Friedrich Wilhelm III.</persName>
@@ -391,7 +401,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-05-27" />
+          <date when="1833-05-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -401,7 +411,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-06-02" />
+          <date when="1833-06-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -411,37 +421,37 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-06-13" />
+          <date when="1833-06-13"/>
         </correspAction>
         <correspAction type="received">
-          <persName cert="medium">[Karl Christian Müller]</persName>
+          <persName cert="medium">[Karl Christian Müller]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="4">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-06-28" />
+          <date when="1833-06-28"/>
         </correspAction>
         <correspAction type="received">
-          <persName cert="medium">[Karl Christian Müller]</persName>
+          <persName cert="medium">[Karl Christian Müller]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="5">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-07-06" />
+          <date when="1833-07-06"/>
         </correspAction>
         <correspAction type="received">
-          <persName cert="medium">[Karl Christian Müller]</persName>
+          <persName cert="medium">[Karl Christian Müller]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-07-06" />
+          <date when="1833-07-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -451,7 +461,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3083835">Bad Salzbrunn</placeName>
-          <date when="1833-08-05" />
+          <date when="1833-08-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/100190014">Hinrich Lichtenstein</persName>
@@ -461,7 +471,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
-          <date when="1833-09-22" />
+          <date when="1833-09-22"/>
         </correspAction>
         <correspAction type="received">
           <persName>Ignaz Peter Lüstner</persName>
@@ -471,7 +481,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-10-12" />
+          <date when="1833-10-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/10016806X">August Kahlert</persName>
@@ -481,7 +491,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-11-05" />
+          <date when="1833-11-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -491,7 +501,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1833-11-20" />
+          <date when="1833-11-20"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/118645110">[Johann Peter Friedrich Ancillon]</persName>
@@ -501,7 +511,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
-          <date when="1833-12-15" />
+          <date when="1833-12-15"/>
         </correspAction>
         <correspAction type="received">
           <persName>Alvensleben</persName>
@@ -511,7 +521,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
-          <date when="1833-12-15" />
+          <date when="1833-12-15"/>
         </correspAction>
         <correspAction type="received">
           <persName>Horac</persName>
@@ -521,7 +531,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2867714">München</placeName>
-          <date when="1833-12-18" />
+          <date when="1833-12-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -531,7 +541,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2867714">München</placeName>
-          <date when="1833-12-28" />
+          <date when="1833-12-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -541,7 +551,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-10" />
+          <date when="1834-03-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -551,7 +561,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-10" />
+          <date when="1834-03-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -561,17 +571,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-10" />
+          <date when="1834-03-10"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/11954265X">Georg Pölchau</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/11954265X">[Georg Pölchau]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-10" />
+          <date when="1834-03-10"/>
         </correspAction>
         <correspAction type="received">
           <persName>Hofrat Kemnitz [und seine Tochter]</persName>
@@ -581,7 +591,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-25" />
+          <date when="1834-03-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -591,7 +601,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-03-25" />
+          <date when="1834-03-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118668005">Christian Carl Josias Bunsen</persName>
@@ -601,7 +611,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-05-16" />
+          <date when="1834-05-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -611,7 +621,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-05-30" />
+          <date when="1834-05-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -621,7 +631,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/3169070">[Rom]</placeName>
-          <date when="1834-05-27" />
+          <date when="1834-05-27"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -631,7 +641,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-05-31" />
+          <date when="1834-05-31"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -641,17 +651,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-08-14" />
+          <date when="1834-08-14"/>
         </correspAction>
         <correspAction type="received">
-          <persName>Prinzessin Auguste von Preußen</persName>
+          <persName ref="http://d-nb.info/gnd/118651102">Prinzessin Auguste von Preußen</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176589">Frascati</placeName>
-          <date when="1834-09-04" />
+          <date when="1834-09-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -661,7 +671,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176589">Frascati</placeName>
-          <date when="1834-09-18" />
+          <date when="1834-09-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -671,7 +681,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-09-18" />
+          <date when="1834-09-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118722239">Raphael Georg Kiesewetter</persName>
@@ -681,7 +691,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176589">Frascati</placeName>
-          <date when="1834-09-18" />
+          <date when="1834-09-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Sing-Akademie zu Berlin</persName>
@@ -691,7 +701,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/3176589">[Frascati]</placeName>
-          <date when="1834-09-27" />
+          <date when="1834-09-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -701,7 +711,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176589">Frascati</placeName>
-          <date when="1834-09-23" />
+          <date when="1834-09-23"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -711,7 +721,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-09-27" />
+          <date when="1834-09-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -721,7 +731,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-10-15" />
+          <date when="1834-10-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -731,7 +741,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-10-19" />
+          <date when="1834-10-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11732633X">Maurice Schlesinger</persName>
@@ -741,7 +751,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-10-22" />
+          <date when="1834-10-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11732633X">Maurice Schlesinger</persName>
@@ -751,7 +761,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-10-24" />
+          <date when="1834-10-24"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -761,7 +771,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1834-10-30" />
+          <date when="1834-10-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -771,7 +781,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-01-31" />
+          <date when="1835-01-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -781,7 +791,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-04-21" />
+          <date when="1835-04-21"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -791,7 +801,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-05-31" />
+          <date when="1835-05-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -801,7 +811,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-06-03" />
+          <date when="1835-06-03"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -811,7 +821,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-06-26" />
+          <date when="1835-06-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/13702035X">Ferdinand Mendheim</persName>
@@ -821,7 +831,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-06-27" />
+          <date when="1835-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/119216132">Anton Diabelli</persName>
@@ -831,7 +841,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-06-27" />
+          <date when="1835-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118651102">Prinzessin Auguste von Preußen</persName>
@@ -841,7 +851,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-09-14" />
+          <date when="1835-09-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11954265X">Georg Pölchau</persName>
@@ -851,7 +861,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-09-18" />
+          <date when="1835-09-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/13702035X">Ferdinand Mendheim</persName>
@@ -861,7 +871,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-10-02" />
+          <date when="1835-10-02"/>
         </correspAction>
         <correspAction type="received">
           <persName>Redaktion der NZfM</persName>
@@ -871,7 +881,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-10-02" />
+          <date when="1835-10-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -881,7 +891,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-10-03" />
+          <date when="1835-10-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -891,7 +901,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1835-10-03" />
+          <date when="1835-10-03"/>
         </correspAction>
         <correspAction type="received">
           <persName>Preußisches Ministerium der auswärtigen Angelegenheiten</persName>
@@ -901,7 +911,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-02-16" />
+          <date when="1836-02-16"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Henriette Kemnitz]</persName>
@@ -911,7 +921,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-03-10" />
+          <date when="1836-03-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -921,7 +931,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-03-17" />
+          <date when="1836-03-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -931,7 +941,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-04-16" />
+          <date when="1836-04-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -941,7 +951,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-05-03" />
+          <date when="1836-05-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118722239">Raphael Georg Kiesewetter</persName>
@@ -951,7 +961,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-05-04" />
+          <date when="1836-05-04"/>
         </correspAction>
         <correspAction type="received">
           <persName>Preußisches Kultus-Ministerium</persName>
@@ -961,7 +971,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-05-04" />
+          <date when="1836-05-04"/>
         </correspAction>
         <correspAction type="received">
           <persName>Preußisches Ministerium der auswärtigen Angelegenheiten</persName>
@@ -971,7 +981,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-05-11" />
+          <date when="1836-05-11"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -981,7 +991,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1836-06-26" />
+          <date when="1836-06-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -991,7 +1001,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3174380">Macerata</placeName>
-          <date when="1836-07-07" />
+          <date when="1836-07-07"/>
         </correspAction>
         <correspAction type="received">
           <persName>Niccolo Sardi</persName>
@@ -1001,7 +1011,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3174380">Macerata</placeName>
-          <date when="1836-08-01" />
+          <date when="1836-08-01"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -1011,7 +1021,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3181928">Bologna</placeName>
-          <date when="1836-09-24" />
+          <date when="1836-09-24"/>
         </correspAction>
         <correspAction type="received">
           <persName>Francesco Ghittini</persName>
@@ -1021,7 +1031,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3181928">Bologna</placeName>
-          <date when="1836-10-13" />
+          <date when="1836-10-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1031,7 +1041,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3171058">Piacenza</placeName>
-          <date when="1836-12-12" />
+          <date when="1836-12-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1041,7 +1051,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3171058">Piacenza</placeName>
-          <date when="1836-12-15" />
+          <date when="1836-12-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116490691">Franz Graf von Hartig</persName>
@@ -1051,7 +1061,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1836-12-18" />
+          <date when="1836-12-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -1061,7 +1071,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1837-01-17" />
+          <date when="1837-01-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -1071,7 +1081,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1837-02-03" />
+          <date when="1837-02-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -1081,7 +1091,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1837-02-21" />
+          <date when="1837-02-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1091,7 +1101,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1837-02-21" />
+          <date when="1837-02-21"/>
         </correspAction>
         <correspAction type="received">
           <persName>Henriette Kemnitz</persName>
@@ -1101,7 +1111,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-06-25" />
+          <date when="1837-06-25"/>
         </correspAction>
         <correspAction type="received">
           <persName>Mitglieder des k. k. Hof-Opern-Theater-Orchesters</persName>
@@ -1111,7 +1121,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-07-01" />
+          <date when="1837-07-01"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1121,7 +1131,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-08-14" />
+          <date when="1837-08-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1131,7 +1141,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-09-24" />
+          <date when="1837-09-24"/>
         </correspAction>
         <correspAction type="received">
           <persName>Breitkopf &amp; Härtel</persName>
@@ -1141,7 +1151,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-09-24" />
+          <date when="1837-09-24"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -1151,7 +1161,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-10-23" />
+          <date when="1837-10-23"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Henriette Kemnitz]</persName>
@@ -1161,7 +1171,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-10-23" />
+          <date when="1837-10-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1171,7 +1181,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-11-06" />
+          <date when="1837-11-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
@@ -1181,7 +1191,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1837-12-09" />
+          <date when="1837-12-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -1191,7 +1201,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1837-12-20" />
+          <date when="1837-12-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -1201,17 +1211,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-01-04" />
+          <date when="1838-01-04"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1838-01-15" />
+          <date when="1838-01-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -1221,7 +1231,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-01-15" />
+          <date when="1838-01-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116113669">Moritz Graf Dietrichstein</persName>
@@ -1231,7 +1241,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-01-25" />
+          <date when="1838-01-25"/>
         </correspAction>
         <correspAction type="received">
           <persName>Joseph Fischhof / Tob. Haslinger</persName>
@@ -1241,27 +1251,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-02-28" />
+          <date when="1838-02-28"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-03-17" />
+          <date when="1838-03-17"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-03-25" />
+          <date when="1838-03-25"/>
         </correspAction>
         <correspAction type="received">
           <persName>Joseph Kläckl (GdM)</persName>
@@ -1271,7 +1281,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-04-07" />
+          <date when="1838-04-07"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116513276">Giuseppe de Filippi</persName>
@@ -1281,7 +1291,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-04-10" />
+          <date when="1838-04-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1291,7 +1301,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-04-12" />
+          <date when="1838-04-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1301,7 +1311,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-04-20" />
+          <date when="1838-04-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1311,7 +1321,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-06-22" />
+          <date when="1838-06-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -1321,17 +1331,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-06-25" />
+          <date when="1838-06-25"/>
         </correspAction>
         <correspAction type="received">
-          <persName>E. von Heilinger </persName>
+          <persName>E. von Heilinger          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-06-26" />
+          <date when="1838-06-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1341,7 +1351,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-06-27" />
+          <date when="1838-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118542001">Eduard Grell</persName>
@@ -1351,7 +1361,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1838-06-27" />
+          <date when="1838-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117317179">Johann Baptist Streicher</persName>
@@ -1361,7 +1371,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164527">Verona</placeName>
-          <date when="1838-07-14" />
+          <date when="1838-07-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117317179">Johann Baptist Streicher</persName>
@@ -1371,7 +1381,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3165524">Turin</placeName>
-          <date when="1838-08-29" />
+          <date when="1838-08-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/119309912">Felice Romani</persName>
@@ -1381,7 +1391,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-15" />
+          <date when="1838-10-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1391,7 +1401,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-18" />
+          <date when="1838-10-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1401,7 +1411,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-28" />
+          <date when="1838-10-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/100471196">Jacopo Ferretti</persName>
@@ -1411,7 +1421,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-29" />
+          <date when="1838-10-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/119216132">Anton Diabelli</persName>
@@ -1421,7 +1431,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-29" />
+          <date when="1838-10-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1431,17 +1441,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
-          <date when="1838-10-30" />
+          <date when="1838-10-30"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen </persName>
+          <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1838-11-23" />
+          <date when="1838-11-23"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Felice Romani]</persName>
@@ -1451,7 +1461,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1838-12-17" />
+          <date when="1838-12-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1461,7 +1471,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1839-01-04" />
+          <date when="1839-01-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1471,7 +1481,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1839-05-10" />
+          <date when="1839-05-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1481,7 +1491,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
-          <date when="1839-06-27" />
+          <date when="1839-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1491,7 +1501,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName>Rom / Macerata</placeName>
-          <date when="1839-08-03" />
+          <date when="1839-08-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1501,7 +1511,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3165524">Turin</placeName>
-          <date when="1840-02-15" />
+          <date when="1840-02-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1511,7 +1521,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1840-03-09" />
+          <date when="1840-03-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1521,7 +1531,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1840-03-14" />
+          <date when="1840-03-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1019623209">Francesco Lucca</persName>
@@ -1531,17 +1541,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
-          <date when="1840-04-08" />
+          <date when="1840-04-08"/>
         </correspAction>
         <correspAction type="received">
-          <persName>Eine Verwandte in Königsberg </persName>
+          <persName cert="medium">[Eine Verwandte in Königsberg]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
-          <date when="1840-05-18" />
+          <date when="1840-05-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1019623209">Francesco Lucca</persName>
@@ -1551,7 +1561,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
-          <date when="1840-05-25" />
+          <date when="1840-05-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116804831">Fortunato Santini</persName>
@@ -1561,7 +1571,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
-          <date when="1840-05-25" />
+          <date when="1840-05-25"/>
         </correspAction>
         <correspAction type="received">
           <persName>Marietta Capalti</persName>
@@ -1570,8 +1580,18 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
+          <date when="1840-05-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/1019623209">Francesco Lucca</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3165185">Triest</placeName>
-          <date when="1840-09-03" />
+          <date when="1840-09-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1581,7 +1601,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3165185">Triest</placeName>
-          <date when="1840-09-04" />
+          <date when="1840-09-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1591,7 +1611,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3165185">Triest</placeName>
-          <date when="1840-09-22" />
+          <date when="1840-09-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1601,24 +1621,24 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1840-10-03" />
+          <date when="1840-10-03"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1840-11-27" />
+          <date when="1840-11-27"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1841-03-22" />
+          <date when="1841-03-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118704931">Ferdinand Hiller</persName>
@@ -1628,47 +1648,47 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
-          <date when="1841-03-23" />
+          <date when="1841-03-23"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-04-24" />
+          <date when="1841-04-24"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-06-17" />
+          <date when="1841-06-17"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
-          <date when="1841-07-23" />
+          <date when="1841-07-23"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-08-10" />
+          <date when="1841-08-10"/>
         </correspAction>
         <correspAction type="received">
           <persName>Verlag Francesco Lucca</persName>
@@ -1678,17 +1698,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-10-24" />
+          <date when="1841-10-24"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-11-03" />
+          <date when="1841-11-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118667424">Ignaz Franz Castelli</persName>
@@ -1698,17 +1718,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-11-19" />
+          <date when="1841-11-19"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1841-12-20" />
+          <date when="1841-12-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -1718,17 +1738,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-02-06" />
+          <date when="1842-02-06"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-03-02" />
+          <date when="1842-03-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/130133469">Johann Rudolph Graf Czernin zu Chudenitz</persName>
@@ -1738,7 +1758,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-03-06" />
+          <date when="1842-03-06"/>
         </correspAction>
         <correspAction type="received">
           <persName>k. k. Ober-Polizei-Direktion</persName>
@@ -1748,7 +1768,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-03-11" />
+          <date when="1842-03-11"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117395684">Johann Vesque von Püttlingen</persName>
@@ -1758,7 +1778,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1842-03-13" />
+          <date when="1842-03-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118569600">Heinrich Eduard Josef von Lannoy</persName>
@@ -1768,27 +1788,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-04-14" />
+          <date when="1842-04-14"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-05-09" />
+          <date when="1842-05-09"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-05-23" />
+          <date when="1842-05-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -1798,17 +1818,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-06-01" />
+          <date when="1842-06-01"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-06-04" />
+          <date when="1842-06-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -1818,7 +1838,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-06-18" />
+          <date when="1842-06-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Clamor von Münchhausen</persName>
@@ -1828,17 +1848,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-06-21" />
+          <date when="1842-06-21"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-07-02" />
+          <date when="1842-07-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -1848,7 +1868,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-07-04" />
+          <date when="1842-07-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1858,7 +1878,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-07-23" />
+          <date when="1842-07-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118654268">Alfred Julius Becher</persName>
@@ -1868,7 +1888,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-07-23" />
+          <date when="1842-07-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -1878,7 +1898,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-08-17" />
+          <date when="1842-08-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1888,7 +1908,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-08-28" />
+          <date when="1842-08-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1898,7 +1918,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-09-05" />
+          <date when="1842-09-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1908,7 +1928,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1842-09-09" />
+          <date when="1842-09-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116718234">Ludwig August Frankl</persName>
@@ -1918,17 +1938,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-09-09" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/116053755">Siegfried Kapper</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-12" />
+          <date when="1842-10-12"/>
         </correspAction>
         <correspAction type="received">
           <persName>k. k. Ober-Polizei-Direktion</persName>
@@ -1938,7 +1948,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-13" />
+          <date when="1842-10-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -1948,7 +1958,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-13" />
+          <date when="1842-10-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/130551716">Carlo Balochino</persName>
@@ -1958,7 +1968,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-14" />
+          <date when="1842-10-14"/>
         </correspAction>
         <correspAction type="received">
           <persName>k. k. Obersthofmeisteramt</persName>
@@ -1968,17 +1978,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-18" />
+          <date when="1842-10-18"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-20" />
+          <date when="1842-10-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -1988,7 +1998,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-23" />
+          <date when="1842-10-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/130551716">Carlo Balochino</persName>
@@ -1998,7 +2008,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-10-24" />
+          <date when="1842-10-24"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2008,7 +2018,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1842-12-16" />
+          <date when="1842-12-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/101057903">Joseph Dessauer</persName>
@@ -2018,7 +2028,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1843-01-23" />
+          <date when="1843-01-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116542705">Giovanni Gentiluomo</persName>
@@ -2028,7 +2038,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-02-26" />
+          <date when="1843-02-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2038,27 +2048,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-05" />
+          <date when="1843-03-05"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-05" />
+          <date when="1843-03-05"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-10" />
+          <date when="1843-03-10"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/117501816">[August Schmidt]</persName>
@@ -2068,34 +2078,34 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-12" />
+          <date when="1843-03-12"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-17" />
+          <date when="1843-03-17"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1843-03-23" />
+          <date when="1843-03-23"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-03-29" />
+          <date when="1843-03-29"/>
         </correspAction>
         <correspAction type="received">
           <persName>Journalist</persName>
@@ -2105,17 +2115,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-04-07" />
+          <date when="1843-04-07"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-04-20" />
+          <date when="1843-04-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118654268">Alfred Julius Becher</persName>
@@ -2125,7 +2135,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1843-05-30" />
+          <date when="1843-05-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117317179">Johann Baptist Streicher</persName>
@@ -2135,7 +2145,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-06-23" />
+          <date when="1843-06-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2145,27 +2155,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-06-28" />
+          <date when="1843-06-28"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="10">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-07-02" />
+          <date when="1843-07-02"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-07-16" />
+          <date when="1843-07-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2175,17 +2185,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-08-21" />
+          <date when="1843-08-21"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-08-31" />
+          <date when="1843-08-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2195,7 +2205,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-09-13" />
+          <date when="1843-09-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2205,7 +2215,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-09-15" />
+          <date when="1843-09-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2215,7 +2225,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-10-08" />
+          <date when="1843-10-08"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2225,7 +2235,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-10-17" />
+          <date when="1843-10-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2235,7 +2245,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-10-23" />
+          <date when="1843-10-23"/>
         </correspAction>
         <correspAction type="received">
           <persName>k. k. Oberstkämmereramt</persName>
@@ -2245,7 +2255,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-11-02" />
+          <date when="1843-11-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2255,7 +2265,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1843-11-06" />
+          <date when="1843-11-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2265,7 +2275,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-11-14" />
+          <date when="1843-11-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2275,7 +2285,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-11-14" />
+          <date when="1843-11-14"/>
         </correspAction>
         <correspAction type="received">
           <persName>Komitee-Mitgl. d. Orchester Personals im Hofoperntheater</persName>
@@ -2285,7 +2295,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-11-15" />
+          <date when="1843-11-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2295,7 +2305,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-11-15" />
+          <date when="1843-11-15"/>
         </correspAction>
         <correspAction type="received">
           <persName>Komitee-Mitgl. d. Orchester Personals im Hofoperntheater</persName>
@@ -2305,7 +2315,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1843-11-26" />
+          <date when="1843-11-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/100844901">Franz Ignaz von Holbein</persName>
@@ -2315,7 +2325,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1843-12-01" />
+          <date when="1843-12-01"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2325,7 +2335,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-01-09" />
+          <date when="1844-01-09"/>
         </correspAction>
         <correspAction type="received">
           <persName>k. k. Oberstkämmereramt</persName>
@@ -2335,7 +2345,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1844-01-23" />
+          <date when="1844-01-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2345,7 +2355,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-02-03" />
+          <date when="1844-02-03"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/117501816">[August Schmidt]</persName>
@@ -2355,7 +2365,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-02-07" />
+          <date when="1844-02-07"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118552589">August Heinrich Hoffmann von Fallersleben</persName>
@@ -2365,17 +2375,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-02-07" />
+          <date when="1844-02-07"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1844-02-08" />
+          <date when="1844-02-08"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2385,17 +2395,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-02-10" />
+          <date when="1844-02-10"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-02-14" />
+          <date when="1844-02-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
@@ -2405,7 +2415,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1844-02-24" />
+          <date when="1844-02-24"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2415,7 +2425,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-05" />
+          <date when="1844-03-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2425,7 +2435,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-13" />
+          <date when="1844-03-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2435,7 +2445,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-13" />
+          <date when="1844-03-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2445,7 +2455,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-14" />
+          <date when="1844-03-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2455,7 +2465,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-15" />
+          <date when="1844-03-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2465,7 +2475,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-15" />
+          <date when="1844-03-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2475,7 +2485,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-03-18" />
+          <date when="1844-03-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
@@ -2485,7 +2495,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-04-12" />
+          <date when="1844-04-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2495,7 +2505,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1844-04-18" />
+          <date when="1844-04-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2505,7 +2515,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-07-04" />
+          <date when="1844-07-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11928930X">Franz Hauser</persName>
@@ -2515,7 +2525,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-07-05" />
+          <date when="1844-07-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/119560038">Adolf Bäuerle</persName>
@@ -2525,7 +2535,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-07-05" />
+          <date when="1844-07-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11697673X">Pietro Mechetti</persName>
@@ -2534,8 +2544,18 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
+          <date when="1844-07-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Joseph von Winter jun.</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
-          <date when="1844-07-09" />
+          <date when="1844-07-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -2545,7 +2565,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1844-07-14" />
+          <date when="1844-07-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -2555,17 +2575,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1844-07-15" />
+          <date when="1844-07-15"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1844-07-19" />
+          <date when="1844-07-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -2575,7 +2595,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1844-07-21" />
+          <date when="1844-07-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2585,7 +2605,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-09-12" />
+          <date when="1844-09-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -2595,7 +2615,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1844-09-18" />
+          <date when="1844-09-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Redaktion der AWMZ</persName>
@@ -2605,7 +2625,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-09-27" />
+          <date when="1844-09-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
+          <date when="1844-09-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2615,17 +2645,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-09-30" />
+          <date when="1844-09-30"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-10-09" />
+          <date when="1844-10-09"/>
         </correspAction>
         <correspAction type="received">
           <persName>Friedrich Egon Landgraf von Fürstenberg</persName>
@@ -2635,7 +2665,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-10-12" />
+          <date when="1844-10-12"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/100844901">[Franz Ignaz von Holbein]</persName>
@@ -2645,7 +2675,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-10-15" />
+          <date when="1844-10-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2655,7 +2685,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-10-29" />
+          <date when="1844-10-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2665,7 +2695,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-10-31" />
+          <date when="1844-10-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/2032848-5">Verlag Schott</persName>
@@ -2675,7 +2705,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-11-03" />
+          <date when="1844-11-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -2685,7 +2715,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-11-23" />
+          <date when="1844-11-23"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Redaktion der AWMZ]</persName>
@@ -2695,7 +2725,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-12-22" />
+          <date when="1844-12-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2705,7 +2735,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1844-12-29" />
+          <date when="1844-12-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/2032848-5">Verlag Schott</persName>
@@ -2715,7 +2745,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-06" />
+          <date when="1845-01-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2725,7 +2755,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-07" />
+          <date when="1845-01-07"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/3021916-4">Wiener Männergesang-Verein</persName>
@@ -2735,7 +2765,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-13" />
+          <date when="1845-01-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2745,7 +2775,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-18" />
+          <date when="1845-01-18"/>
         </correspAction>
         <correspAction type="received">
           <persName>Carl August Challier</persName>
@@ -2755,7 +2785,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-20" />
+          <date when="1845-01-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -2765,7 +2795,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-22" />
+          <date when="1845-01-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118581945">Giacomo Meyerbeer</persName>
@@ -2775,7 +2805,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-29" />
+          <date when="1845-01-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2785,7 +2815,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-01-31" />
+          <date when="1845-01-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -2795,7 +2825,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1845-02-07" />
+          <date when="1845-02-07"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2805,7 +2835,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-02-10" />
+          <date when="1845-02-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2815,7 +2845,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-02-10" />
+          <date when="1845-02-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2825,7 +2855,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-03-17" />
+          <date when="1845-03-17"/>
         </correspAction>
         <correspAction type="received">
           <persName>Ludwig August Frankl</persName>
@@ -2835,7 +2865,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-03-19" />
+          <date when="1845-03-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2845,7 +2875,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-03-21" />
+          <date when="1845-03-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2855,7 +2885,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-04-04" />
+          <date when="1845-04-04"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -2865,7 +2895,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-04-05" />
+          <date when="1845-04-05"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -2875,7 +2905,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-05-09" />
+          <date when="1845-05-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -2885,27 +2915,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-06-01" />
+          <date when="1845-06-01"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-06-18" />
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-06-20" />
+          <date when="1845-06-18"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -2915,7 +2935,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-08-02" />
+          <date when="1845-06-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
+          <date when="1845-08-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -2925,17 +2955,14 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1845-08-15" />
-        </correspAction>
-        <correspAction type="received">
-          <persName>Quittung</persName>
+          <date when="1845-08-15"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-09-19" />
+          <date when="1845-09-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -2945,14 +2972,14 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-11-27" />
+          <date when="1845-11-27"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-12-16" />
+          <date when="1845-12-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116942924">Jacob Hoffmeister</persName>
@@ -2962,7 +2989,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1845-12-25" />
+          <date when="1845-12-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -2972,7 +2999,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-01-11" />
+          <date when="1846-01-11"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Redakteur]</persName>
@@ -2982,7 +3009,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-01-20" />
+          <date when="1846-01-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -2992,7 +3019,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-01-22" />
+          <date when="1846-01-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3002,7 +3029,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-01-28" />
+          <date when="1846-01-28"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Regierungsrat]</persName>
@@ -3012,7 +3039,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1846-01-31" />
+          <date when="1846-01-31"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -3022,7 +3049,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-02-16" />
+          <date when="1846-02-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3032,7 +3059,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-02-20" />
+          <date when="1846-02-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3042,7 +3069,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-03-13" />
+          <date when="1846-03-13"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116666366">Franz Glöggl</persName>
@@ -3052,17 +3079,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-03-22" />
+          <date when="1846-03-22"/>
         </correspAction>
         <correspAction type="received">
-          <persName>Heinrich Eduard Josef von Lannoy</persName>
+          <persName ref="http://d-nb.info/gnd/118569600">Heinrich Eduard Josef von Lannoy</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-04-12" />
+          <date when="1846-04-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3072,7 +3099,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1846-04-16" />
+          <date when="1846-04-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -3082,7 +3109,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-04-20" />
+          <date when="1846-04-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3092,7 +3119,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-04-26" />
+          <date when="1846-04-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3102,7 +3129,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-04-30" />
+          <date when="1846-04-30"/>
         </correspAction>
         <correspAction type="received">
           <persName>Georg Winter</persName>
@@ -3112,7 +3139,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-05-16" />
+          <date when="1846-05-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -3122,17 +3149,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-05-27" />
+          <date when="1846-05-27"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="20">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-05-27" />
+          <date when="1846-05-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116374594">Graf Wilhelm von Redern</persName>
@@ -3142,17 +3169,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-05-30" />
+          <date when="1846-05-30"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-06-03" />
+          <date when="1846-06-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116942924">Jacob Hoffmeister</persName>
@@ -3162,7 +3189,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-06-16" />
+          <date when="1846-06-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -3172,7 +3199,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-06-29" />
+          <date when="1846-06-29"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Pietro Mechetti]</persName>
@@ -3182,27 +3209,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-07-16" />
+          <date when="1846-07-16"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="22">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-07-25" />
+          <date when="1846-07-25"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-08-11" />
+          <date when="1846-08-11"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118654268">Alfred Julius Becher</persName>
@@ -3212,7 +3239,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-09-26" />
+          <date when="1846-09-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3222,7 +3249,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-10-16" />
+          <date when="1846-10-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118581945">Giacomo Meyerbeer</persName>
@@ -3232,7 +3259,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-10-23" />
+          <date when="1846-10-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3242,7 +3269,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-10-29" />
+          <date when="1846-10-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3252,17 +3279,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-11-08" />
+          <date when="1846-11-08"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1846-11-19" />
+          <date when="1846-11-19"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -3272,7 +3299,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-11-21" />
+          <date when="1846-11-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3282,7 +3309,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-12-10" />
+          <date when="1846-12-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3292,7 +3319,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-12-14" />
+          <date when="1846-12-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116666366">Franz Glöggl</persName>
@@ -3302,7 +3329,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-12-21" />
+          <date when="1846-12-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
@@ -3312,7 +3339,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1846-12-30" />
+          <date when="1846-12-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3322,7 +3349,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-01-10" />
+          <date when="1847-01-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118530801">Franz Erkel</persName>
@@ -3332,17 +3359,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1847-01-15" />
+          <date when="1847-01-15"/>
         </correspAction>
         <correspAction type="received">
-          <persName>v. Grohofski</persName>
+          <persName>von Grohofski</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-02-06" />
+          <date when="1847-02-06"/>
         </correspAction>
         <correspAction type="received">
           <persName>F. M. von Luik?</persName>
@@ -3352,7 +3379,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1847-02-08" />
+          <date when="1847-02-08"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -3362,7 +3389,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-02-09" />
+          <date when="1847-02-09"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/118693948">[Aloys Fuchs?]</persName>
@@ -3371,18 +3398,18 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-02-09" />
+          <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
+          <date when="1847-02-09"/>
         </correspAction>
         <correspAction type="received">
-          <persName>Franz? / Karl? Doppler</persName>
+          <persName ref="http://d-nb.info/gnd/116180110">Karl Doppler</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-02-15" />
+          <date when="1847-02-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1013591364">Friedrich Klemm</persName>
@@ -3392,7 +3419,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-02-21" />
+          <date when="1847-02-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3401,8 +3428,15 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
+          <date when="1847-02-22"/>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-02" />
+          <date when="1847-03-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116666366">Franz Glöggl</persName>
@@ -3412,7 +3446,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1847-03-03" />
+          <date when="1847-03-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3422,7 +3456,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-04" />
+          <date when="1847-03-04"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/118581945">[Giacomo Meyerbeer]</persName>
@@ -3432,7 +3466,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-09" />
+          <date when="1847-03-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116666366">Franz Glöggl</persName>
@@ -3442,7 +3476,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-11" />
+          <date when="1847-03-11"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/117501816">[August Schmidt]</persName>
@@ -3452,14 +3486,14 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-17" />
+          <date when="1847-03-17"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-23" />
+          <date when="1847-03-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117317179">Johann Baptist Streicher</persName>
@@ -3469,7 +3503,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-29" />
+          <date when="1847-03-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3479,17 +3513,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-29" />
+          <date when="1847-03-29"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-03-29" />
+          <date when="1847-03-29"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3499,7 +3533,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
-          <date when="1847-04-09" />
+          <date when="1847-04-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116584645">Joseph Fischhof</persName>
@@ -3509,7 +3543,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-04-30" />
+          <date when="1847-04-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117317179">Johann Baptist Streicher</persName>
@@ -3519,7 +3553,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-05-04" />
+          <date when="1847-05-04"/>
         </correspAction>
         <correspAction type="received">
           <persName>Tobias? Haslinger</persName>
@@ -3529,7 +3563,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-05-14" />
+          <date when="1847-05-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116513772">Carl Haslinger</persName>
@@ -3539,7 +3573,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-          <date when="1847-05-20" />
+          <date when="1847-05-20"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118693948">Aloys Fuchs</persName>
@@ -3549,7 +3583,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
-          <date when="1847-05-30" />
+          <date when="1847-05-30"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/140005439">Franz Edler von Hilleprandt</persName>
@@ -3559,7 +3593,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2766818">Salzburg</placeName>
-          <date when="1847-06-16" />
+          <date when="1847-06-16"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/140005439">Franz Edler von Hilleprandt</persName>
@@ -3569,7 +3603,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2782067">Baden</placeName>
-          <date when="1847-07-23" />
+          <date when="1847-07-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/119560038">Adolf Bäuerle</persName>
@@ -3579,7 +3613,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2782067">Baden</placeName>
-          <date when="1847-07-23" />
+          <date when="1847-07-23"/>
         </correspAction>
         <correspAction type="received">
           <persName>Redaktion der AWMZ</persName>
@@ -3589,7 +3623,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/3072267">Gräfenberg</placeName>
-          <date when="1847-09-10" />
+          <date when="1847-09-10"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117027685">Ludwig Mielichhofer</persName>
@@ -3599,27 +3633,27 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-10-10" />
+          <date when="1847-10-10"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-10-26" />
+          <date when="1847-10-26"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-11-14" />
+          <date when="1847-11-14"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116607157">Theodor Kullak</persName>
@@ -3629,17 +3663,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1847-11-21" />
+          <date when="1847-11-21"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-12-17" />
+          <date when="1847-12-17"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/116374594">[Graf Wilhelm von Redern]</persName>
@@ -3649,7 +3683,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-12-17" />
+          <date when="1847-12-17"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117223298">Joseph Staudigl</persName>
@@ -3659,7 +3693,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-12-21" />
+          <date when="1847-12-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3669,7 +3703,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1847-12-29" />
+          <date when="1847-12-29"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Pauline von Stradiot (Mutter)]</persName>
@@ -3679,7 +3713,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-03" />
+          <date when="1848-01-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116182776">Heinrich Dorn</persName>
@@ -3689,7 +3723,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-09" />
+          <date when="1848-01-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11697673X">Pietro Mechetti</persName>
@@ -3699,7 +3733,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-12" />
+          <date when="1848-01-12"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -3709,24 +3743,24 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-15" />
+          <date when="1848-01-15"/>
         </correspAction>
         <correspAction type="received">
-          <persName>Schlesinger (Verlag)</persName>
+          <persName ref="http://d-nb.info/gnd/1073054446">Schlesinger'sche Buchhandlung</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-18" />
+          <date when="1848-01-18"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-23" />
+          <date when="1848-01-23"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -3736,14 +3770,14 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1848-01-28" />
+          <date when="1848-01-28"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-01-28" />
+          <date when="1848-01-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/117326097">Heinrich Schlesinger</persName>
@@ -3753,17 +3787,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-02-05" />
+          <date when="1848-02-05"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-02-16" />
+          <date when="1848-02-16"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/116952431">[Friedrich Hofmeister]</persName>
@@ -3773,17 +3807,14 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1848-02-27" />
-        </correspAction>
-        <correspAction type="received">
-          <persName>? (Billet)</persName>
+          <date when="1848-02-27"/>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-03-08" />
+          <date when="1848-03-08"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/11723589X">Wilhelm Taubert</persName>
@@ -3793,7 +3824,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-05-07" />
+          <date when="1848-05-07"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116429240">Ida Brauns</persName>
@@ -3803,7 +3834,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-06-27" />
+          <date when="1848-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118581945">Giacomo Meyerbeer</persName>
@@ -3813,7 +3844,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-06-27" />
+          <date when="1848-06-27"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118616366">Louis Spohr</persName>
@@ -3823,7 +3854,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-07-01" />
+          <date when="1848-07-01"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3833,7 +3864,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2814266">Wangerooge</placeName>
-          <date when="1848-07-28" />
+          <date when="1848-07-28"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3843,7 +3874,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-09-26" />
+          <date when="1848-09-26"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3853,7 +3884,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1848-09-27" />
+          <date when="1848-09-27"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium">[Intendantur oder Theaterleitung]</persName>
@@ -3863,7 +3894,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-10-22" />
+          <date when="1848-10-22"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/101363184">Salomon Hermann von Mosenthal</persName>
@@ -3873,7 +3904,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-11-06" />
+          <date when="1848-11-06"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
@@ -3883,7 +3914,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-11-26" />
+          <date when="1848-11-26"/>
         </correspAction>
         <correspAction type="received">
           <persName>Franziska Gellein</persName>
@@ -3893,17 +3924,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1848-11-28" />
+          <date when="1848-11-28"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/138233438">Carl Nicolai</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/138233438">[Carl Nicolai]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1848-12-27" />
+          <date when="1848-12-27"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/11723589X">[Wilhelm Taubert]</persName>
@@ -3913,7 +3944,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-01-03" />
+          <date when="1849-01-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -3923,7 +3954,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1849-02-02" />
+          <date when="1849-02-02"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1036903699">Johann Elßler</persName>
@@ -3933,17 +3964,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1849-02-07" />
+          <date when="1849-02-07"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/330271814">Verlag Bartholf Senff </persName>
+          <persName ref="http://d-nb.info/gnd/330271814">Verlag Bartholf Senff          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1849-02-19" />
+          <date when="1849-02-19"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/118545124">[Eduard Hallberger]</persName>
@@ -3953,7 +3984,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-02-21" />
+          <date when="1849-02-21"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116611316">Karl Theodor von Küstner</persName>
@@ -3963,7 +3994,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-03-01" />
+          <date when="1849-03-01"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116419210">Leopold Ganz</persName>
@@ -3973,7 +4004,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-03-03" />
+          <date when="1849-03-03"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
@@ -3983,7 +4014,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1849-03-09" />
+          <date cert="medium" when="1849-03-09"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116182776">Heinrich Dorn</persName>
@@ -3993,17 +4024,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-03-29" />
+          <date when="1849-03-29"/>
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV. </persName>
+          <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.          </persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
-          <date when="1849-04-15" />
+          <date when="1849-04-15"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116607157">Theodor Kullak</persName>
@@ -4013,7 +4044,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-04-25" />
+          <date when="1849-04-25"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116952431">Friedrich Hofmeister</persName>
@@ -4023,10 +4054,10 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <date when="1849-05-06" />
+          <date when="1849-05-06"/>
         </correspAction>
         <correspAction type="received">
-          <persName cert="medium">[Henriette Sontag]</persName>
+          <persName cert="medium" ref="http://d-nb.info/gnd/118797999">[Henriette Sontag]</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -4042,9 +4073,6 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-        </correspAction>
-        <correspAction type="received">
-          <persName>? (Billet)</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -4232,14 +4260,6 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-        </correspAction>
-        <correspAction type="received">
-          <persName>Joseph von Winter jun.</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
         </correspAction>
         <correspAction type="received">
@@ -4328,6 +4348,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1833-11"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1042645949">Gustav Bethge</persName>
@@ -4337,6 +4358,7 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2878986">Leitzkau</placeName>
+          <date cert="medium" when="1831"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/1042645949">Gustav Bethge</persName>
@@ -4346,24 +4368,17 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date cert="medium" when="1832"/>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
-        </correspAction>
-      </correspDesc>
-      <correspDesc>
-        <correspAction type="sent">
-          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
-        </correspAction>
-        <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="19">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
+          <date cert="medium" when="1846"/>
         </correspAction>
         <correspAction type="received">
           <persName cert="medium" ref="http://d-nb.info/gnd/116374594">[Graf Wilhelm von Redern]</persName>
@@ -4381,13 +4396,42 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName cert="medium" ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date cert="medium" when="1832"/>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116607157">Theodor Kullak</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/104311665">Georg Hellmesberger</persName>
+          <placeName cert="medium" ref="http://www.geonames.org/2761367">[Wien]</placeName>
+          <date when="1844-03-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117223298">Joseph Staudigl</persName>
+          <placeName ref="http://www.geonames.org/2950159">Wien</placeName>
+          <date when="1842-11-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
         </correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>
