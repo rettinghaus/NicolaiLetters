@@ -12,7 +12,7 @@ Kotte | Kotte Autographs
 Lengfeld | M.-Lengfeld'sche Buchhandlung
 Liepmannssohn | Leo Liepmannssohn, Antiquariat
 Malota | Franz Malota, Buch- und Kunstantiquariat
-Nebehay | Katalog / Christian M. Nebehay, Ges.m.b.H., Wien
+Nebehay | Wiener Antiquariat Ingo Nebehay
 Poseck | Firma Waldemar Poseck
 Schmolt | Axel Schmolt Autographen-Auktionen
 Stargardt | J. A. Stargardt 
