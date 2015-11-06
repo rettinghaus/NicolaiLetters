@@ -10,14 +10,14 @@
       <publicationStmt>
         <publisher>Klaus Rettinghaus</publisher>
         <idno type="url">http://rettinghaus.github.io/NicolaiLetters/NicolaiLetters.xml</idno>
-        <date when="2015-10-30T17:36:34.312733" />
+        <date when="2015-11-06T21:57:21.978756" />
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print">
-          <ref target="http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-57390">Klaus Rettinghaus: Studien zum geistlichen Werk Otto Nicolais, Berlin 2014</ref>
+          <ref target="http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-57390">RETTINGHAUS, Klaus, 2014. Studien zum geistlichen Werk Otto Nicolais. Berlin. ISBN 978-3-7375-1116-2</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -117,7 +117,7 @@
           <date when="1830-10-15" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/10145004-7">Lieder-Verein Berlin 1829</persName>
+          <orgName ref="http://d-nb.info/gnd/10145004-7">Lieder-Verein Berlin 1829</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -127,7 +127,7 @@
           <date when="1830-12-12" />
         </correspAction>
         <correspAction type="received">
-          <persName>Sing-Akademie zu Berlin</persName>
+          <orgName>Sing-Akademie zu Berlin</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -634,7 +634,7 @@
           <date when="1834-05-27" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -904,7 +904,7 @@
           <date when="1835-10-03" />
         </correspAction>
         <correspAction type="received">
-          <persName>Preußisches Ministerium der auswärtigen Angelegenheiten</persName>
+          <orgName>Preußisches Ministerium der auswärtigen Angelegenheiten</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -964,7 +964,7 @@
           <date when="1836-05-04" />
         </correspAction>
         <correspAction type="received">
-          <persName>Preußisches Kultus-Ministerium</persName>
+          <orgName>Preußisches Kultus-Ministerium</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="9">
@@ -974,7 +974,7 @@
           <date when="1836-05-04" />
         </correspAction>
         <correspAction type="received">
-          <persName>Preußisches Ministerium der auswärtigen Angelegenheiten</persName>
+          <orgName>Preußisches Ministerium der auswärtigen Angelegenheiten</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -1144,7 +1144,7 @@
           <date when="1837-09-24" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -1214,7 +1214,7 @@
           <date when="1838-01-04" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2618,7 +2618,7 @@
           <date when="1844-09-18" />
         </correspAction>
         <correspAction type="received">
-          <persName>Redaktion der AWMZ</persName>
+          <orgName>Redaktion der AWMZ</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2718,7 +2718,7 @@
           <date when="1844-11-23" />
         </correspAction>
         <correspAction type="received">
-          <persName evidence="conjecture">Redaktion der AWMZ</persName>
+          <orgName evidence="conjecture">Redaktion der AWMZ</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2738,7 +2738,7 @@
           <date when="1844-12-29" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/2032848-5">Verlag Schott</persName>
+          <orgName ref="http://d-nb.info/gnd/2032848-5">Verlag Schott</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2758,7 +2758,7 @@
           <date when="1845-01-07" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/3021916-4">Wiener Männergesang-Verein</persName>
+          <orgName ref="http://d-nb.info/gnd/3021916-4">Wiener Männergesang-Verein</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -3516,7 +3516,7 @@
           <date when="1847-03-29" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -3746,7 +3746,7 @@
           <date when="1848-01-15" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/1073054446">Schlesinger'sche Buchhandlung</persName>
+          <orgName ref="http://d-nb.info/gnd/1073054446">Schlesinger'sche Buchhandlung</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -4078,7 +4078,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName evidence="conjecture">Rom</placeName>
+          <placeName evidence="conjecture" ref="http://www.geonames.org/3169070">Rom</placeName>
         </correspAction>
         <correspAction type="received">
           <persName evidence="conjecture" ref="http://d-nb.info/gnd/116707801">Carl Friedrich Rungenhagen</persName>
@@ -4302,7 +4302,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName>Berlin</placeName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
         </correspAction>
         <correspAction type="received">
           <persName ref="http://d-nb.info/gnd/13702035X">Ferdinand Mendheim</persName>
