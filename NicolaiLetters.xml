@@ -10,38 +10,38 @@
       <publicationStmt>
         <publisher>Klaus Rettinghaus</publisher>
         <idno type="url">https://raw.githubusercontent.com/rettinghaus/NicolaiLetters/master/NicolaiLetters.xml</idno>
-        <date when="2015-11-13T15:04:53.156484" />
+        <date when="2015-11-18" />
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print" xml:id="edition_ioiouqyf_lo5mie9l">Altmann, Wilhelm, Hrsg., 1924. Otto Nicolai: Briefe an seinen Vater. Regensburg, G. Bosse.</bibl>
-        <bibl type="print" xml:id="edition_yhhayuhi_obhkuq7k">Rettinghaus, Klaus, 2014. Studien zum geistlichen Werk Otto Nicolais. Berlin. ISBN 978-3-7375-1116-2</bibl>
+        <bibl type="print" xml:id="edition_yhhayuhi_obhkuq7k">Rettinghaus, Klaus, 2014. Studien zum geistlichen Werk Otto Nicolais. Berlin. ISBN 978-3-7375-1116-2 [Digitalisat verfügbar unter <ref target="http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/5739">http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/5739</ref>].</bibl>
         <bibl type="print" xml:id="edition_248rdmz6_2cfkicgt">Harzen-Müller, Andreas Nikolaus, 1899. Musikalisches und Musiker aus dem »Lieder-Verein Berlin 1829«. Berlin, Verlag des Lieder-Verein Berlin 1829.</bibl>
         <bibl type="print" xml:id="edition_jepf0s1a_p07anpck">Hennig, Richard, 1941. Neue Mitteilungen über Otto Nicolais Berliner Jahre. In: Zeitschrift des Vereins für die Geschichte Berlins. 58, S. 14–18.</bibl>
-        <bibl type="print" xml:id="edition_la2jlo71_na2n4pmc">Kruse, Leipzig I</bibl>
-        <bibl type="print" xml:id="edition_9kdmel4u_jfyyun37">Kruse, Leipzig II</bibl>
+        <bibl type="print" xml:id="edition_la2jlo71_na2n4pmc">Kruse, Georg Richard, 1906. Otto Nicolai in Leipzig. In: Die Sängerhalle.</bibl>
+        <bibl type="print" xml:id="edition_9kdmel4u_jfyyun37">Kruse, Georg Richard, 1910. Otto Nicolais Beziehungen zu Leipzig. In: Leipziger Tageblatt und Handelsblatt.</bibl>
         <bibl type="print" xml:id="edition_o7z3l3is_fxcgfx46">Altmann, Wilhelm, Hrsg., 1937. Otto Nicolais Tagebücher. Regensburg, G. Bosse.</bibl>
         <bibl type="print" xml:id="edition_jssqacpv_g45yftew">Virneisel, Wilhelm, 1955. Otto Nicolai als Musiksammler. In: Walther Vetter, Hrsg. Festschrift Max Schneider zum 80. Geburtstage. Leipzig, Deutscher Verlag für Musik. S. 227–240.</bibl>
         <bibl type="print" xml:id="edition_hc0eh3f2_8efom4ey">Rieger, Erwin, 1962. Zwei Briefe Otto Nicolais an Raphael Georg Kiesewetter. In: Studien zur Musikwissenschaft. 25, S. 434–439. ISSN 0930-9578</bibl>
         <bibl type="print" xml:id="edition_ypwnm7wx_toef8gc3">Die Musik 16 (1905)</bibl>
-        <bibl type="print" xml:id="edition_0e7j4yn2_pfyqi283">Kruse, Nicolai in Italien, </bibl>
+        <bibl type="print" xml:id="edition_0e7j4yn2_pfyqi283">Kruse, Georg Richard. Nicolai in Italien.</bibl>
         <bibl type="print" xml:id="edition_ndqe8lv0_bq4lcdz6">Neue Zeitschrift für Musik 3 (1835)</bibl>
         <bibl type="print" xml:id="edition_5yd7dsnx_huk60yir">Boetticher, Wolfgang, Hrsg., 1979. Briefe und Gedichte aus dem Album Robert und Clara Schumanns. Leipzig, Deutscher Verlag für Musik.</bibl>
         <bibl type="print" xml:id="edition_lsxka7hr_1gy9lqu5">Anon., 1887. Johann Vesque von Püttlingen: Eine Lebensskizze. Wien, Alfred Hölder.</bibl>
         <bibl type="print" xml:id="edition_ylwg4103_bx5kj4iw">La Mara, 1886. Musikerbriefe aus fünf Jahrhunderten. 2. Leipzig, Breitkopf &amp; Härtel.</bibl>
-        <bibl type="print" xml:id="edition_7igehfar_1r72pvxl">Kruse, Richard Wilhelm, 1910. Wilhelmine: Eine Erinnerung an Otto Nicolai. In: Rheinische Musik- und Theater-Zeitung. 11, S. 533–535.</bibl>
+        <bibl type="print" xml:id="edition_7igehfar_1r72pvxl">Kruse, Georg Richard, 1910. Wilhelmine: Eine Erinnerung an Otto Nicolai. In: Rheinische Musik- und Theater-Zeitung. 11, S. 533–535.</bibl>
         <bibl type="print" xml:id="edition_jh6xfa9l_ke293ni9">Jerger, Wilhelm, Hrsg., 1942. Briefe an die Wiener Philharmoniker. Wien, Wiener Verlagsgesellschaft.</bibl>
         <bibl type="print" xml:id="edition_cizb1j7c_l9ed607x">Kapp, Julius, 1937. Geschichte der Staatsoper Berlin. Berlin, M. Hesse. </bibl>
         <bibl type="print" xml:id="edition_a2qhgnmu_hczgxd6s">Die Musik 35 (1910)</bibl>
-        <bibl type="print" xml:id="edition_eyfx0op9_mt9ugtvz">Kruse, Brief  I.</bibl>
-        <bibl type="print" xml:id="edition_b1nvfj66_qi7b1xn0">Altmann, Brief  III</bibl>
-        <bibl type="print" xml:id="edition_n5nw4p5g_i99drimy">Kruse, Falstaff, 216-220; Ders., Entstehung  d. LW-Textes, 786–791</bibl>
+        <bibl type="print" xml:id="edition_eyfx0op9_mt9ugtvz">Kruse, Georg Richard, 1911. Ein ungedruckter Brief Otto Nicolais. In: Vossische Zeitung.</bibl>
+        <bibl type="print" xml:id="edition_b1nvfj66_qi7b1xn0">Altmann, Wilhelm, 1930. Ein bisher unbekannter Brief Otto Nicolais an seinen Vater. In: Musikwelt. 8/9, S. 390–391.</bibl>
+        <bibl type="print" xml:id="edition_n5nw4p5g_i99drimy">Kruse, Georg Richard, 1922. Die Entstehung des „Lustigen Weiber“-Textes. In: Rheinische Thalia. S. 785–793. </bibl>
         <bibl type="print" xml:id="edition_b04a3pdo_948mfaii">Orel, Alfred, 1925. Wiener Musikerbriefe aus zwei Jahrhunderten. Wien, A. Hartleben.</bibl>
-        <bibl type="print" xml:id="edition_2ld27weu_qf9bpzgi">Spatzenegger, Mozart-Sohn</bibl>
+        <bibl type="print" xml:id="edition_2ld27weu_qf9bpzgi">Spatzenegger, Hans, 1980. Als Wolfgang Amadeus Mozart-Sohn als Kapellmeister ans Mozarteum strebte. </bibl>
         <bibl type="print" xml:id="edition_uh0993ho_wslqobqw">Signale für die musikalische Welt 50 (1892)</bibl>
-        <bibl type="print" xml:id="edition_r8pcycg9_h4jrgk6k">Kruse, Nicolais Beziehungen zu den Bühnensängerinnen seiner Zeit</bibl>
+        <bibl type="print" xml:id="edition_r8pcycg9_h4jrgk6k">Kruse, Georg Richard, 1907. Otto Nicolais Beziehungen zu den Bühnensängerinnen seiner Zeit. Neue Musikzeitung. 28, S. 493–495 u. 517–519.</bibl>
         <bibl type="print" xml:id="edition_2bz7pixd_xttskc3c">Signale für die musikalische Welt 7 (1849)</bibl>
       </sourceDesc>
     </fileDesc>
@@ -151,7 +151,7 @@
           <date when="1830-12-12" />
         </correspAction>
         <correspAction type="received">
-          <orgName>Sing-Akademie zu Berlin</orgName>
+          <orgName ref="2118215-2">Sing-Akademie zu Berlin</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -181,7 +181,7 @@
           <date when="1831-09-09" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc source="#edition_la2jlo71_na2n4pmc">
@@ -191,7 +191,7 @@
           <date when="1831-09-10" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -201,7 +201,7 @@
           <date when="1831-09-13" />
         </correspAction>
         <correspAction type="received">
-          <persName evidence="conjecture">Ein Operndirektor in Magdeburg</persName>
+          <persName evidence="conjecture">Magdeburger Operndirektor</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -231,7 +231,7 @@
           <date when="1832-01-28" />
         </correspAction>
         <correspAction type="received">
-          <persName>Ältere Liedertafel</persName>
+          <orgName ref="1078717923">Ältere Liedertafel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc source="#edition_la2jlo71_na2n4pmc">
@@ -241,7 +241,7 @@
           <date when="1832-02-28" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="8" source="#edition_ioiouqyf_lo5mie9l">
@@ -261,7 +261,7 @@
           <date when="1832-03-22" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -341,7 +341,7 @@
           <date when="1832-10-19" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -558,7 +558,7 @@
           <date when="1833-12-18" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="13" source="#edition_ioiouqyf_lo5mie9l">
@@ -658,7 +658,7 @@
           <date when="1834-05-27" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc source="#edition_o7z3l3is_fxcgfx46">
@@ -718,7 +718,7 @@
           <date when="1834-09-18" />
         </correspAction>
         <correspAction type="received">
-          <orgName>Sing-Akademie zu Berlin</orgName>
+          <orgName ref="2118215-2">Sing-Akademie zu Berlin</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="16" source="#edition_ioiouqyf_lo5mie9l">
@@ -818,7 +818,7 @@
           <date when="1835-04-21" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="19" source="#edition_ioiouqyf_lo5mie9l">
@@ -1168,7 +1168,7 @@
           <date when="1837-09-24" />
         </correspAction>
         <correspAction type="received">
-          <persName>Breitkopf &amp; Härtel</persName>
+          <orgName>Breitkopf &amp; Härtel</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc source="#edition_5yd7dsnx_huk60yir">
@@ -1238,7 +1238,7 @@
           <date when="1838-01-04" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -1288,7 +1288,7 @@
           <date when="1838-03-17" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2005,7 +2005,7 @@
           <date when="1842-10-18" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2075,7 +2075,7 @@
           <date when="1843-03-05" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2085,7 +2085,7 @@
           <date when="1843-03-05" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2105,7 +2105,7 @@
           <date when="1843-03-12" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2115,7 +2115,7 @@
           <date when="1843-03-17" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2142,7 +2142,7 @@
           <date when="1843-04-07" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2182,7 +2182,7 @@
           <date when="1843-06-28" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="10" source="#edition_yhhayuhi_obhkuq7k">
@@ -2682,7 +2682,7 @@
           <date when="1844-10-09" />
         </correspAction>
         <correspAction type="received">
-          <persName>Friedrich Egon Landgraf von Fürstenberg</persName>
+          <persName ref="1042070547">Friedrich Egon Landgraf von Fürstenberg</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2802,7 +2802,7 @@
           <date when="1845-01-18" />
         </correspAction>
         <correspAction type="received">
-          <persName>Carl August Challier</persName>
+          <persName ref="http://d-nb.info/gnd/116481706">Carl August Challier</persName>
         </correspAction>
       </correspDesc>
       <correspDesc>
@@ -2882,7 +2882,7 @@
           <date when="1845-03-17" />
         </correspAction>
         <correspAction type="received">
-          <persName>Ludwig August Frankl</persName>
+          <persName ref="http://d-nb.info/gnd/116718234">Ludwig August Frankl</persName>
         </correspAction>
       </correspDesc>
       <correspDesc key="64" source="#edition_ioiouqyf_lo5mie9l">
@@ -3349,7 +3349,7 @@
           <persName ref="http://d-nb.info/gnd/116666366">Franz Glöggl</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#edition_b04a3pdo_948mfaii">
+      <correspDesc key="19" source="#edition_b04a3pdo_948mfaii">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
           <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
@@ -3530,7 +3530,7 @@
           <date when="1847-03-29" />
         </correspAction>
         <correspAction type="received">
-          <persName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates </persName>
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Gesellschaft der Musikfreunde des Österreichischen Kaiserstaates</orgName>
         </correspAction>
       </correspDesc>
       <correspDesc key="74" source="#edition_ioiouqyf_lo5mie9l">
