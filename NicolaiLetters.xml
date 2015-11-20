@@ -10,7 +10,7 @@
       <publicationStmt>
         <publisher>Klaus Rettinghaus</publisher>
         <idno type="url">https://raw.githubusercontent.com/rettinghaus/NicolaiLetters/master/NicolaiLetters.xml</idno>
-        <date when="2015-11-18" />
+        <date when="2015-11-20" />
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
         </availability>
@@ -3169,6 +3169,16 @@
           <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
         </correspAction>
       </correspDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
+          <placeName ref="http://www.geonames.org/2761367">Wien</placeName>
+          <date when="1846-05-18" />
+        </correspAction>
+      <correspAction type="received">
+        <persName ref="http://d-nb.info/gnd/11723589X">Wilhelm Taubert</persName>
+      </correspAction>
+    </correspDesc>
       <correspDesc key="21" source="#edition_yhhayuhi_obhkuq7k">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
