@@ -1524,7 +1524,7 @@
       <correspDesc source="#edition_lsxka7hr_1gy9lqu5">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118587684">Otto Nicolai</persName>
-          <placeName>Rom / Macerata</placeName>
+          <placeName ref="http://www.geonames.org/3174380">Macerata</placeName>
           <date when="1839-08-15" />
         </correspAction>
         <correspAction type="received">
