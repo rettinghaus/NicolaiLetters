@@ -1,0 +1,5 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+*.ini export-ignore
+docs export-ignore
+pdf export-ignore
