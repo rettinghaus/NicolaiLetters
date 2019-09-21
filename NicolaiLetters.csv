@@ -48,8 +48,8 @@ Otto Nicolai,Ignaz Peter Lüstner,Breslau,1833-09-22,,,,"Henrici 31 (1916), S. 6
 Otto Nicolai,August Kahlert,Berlin,1833-10-12,,,,"Stargardt [Donebauer] (1908), S. 79; Henrici 77 (1922), S. 82","D-B Mus.ep. Nicolai, O. 23",DE-611-HS-2637313,118587684,http://www.geonames.org/2950159,10016806X,an A. Kahlert in Breslau; erworben 1922
 Otto Nicolai,Carl Friedrich Rungenhagen,Berlin,1833-11-05,,,,,D-Bsa N.Mus. SA 334,,118587684,http://www.geonames.org/2950159,116707801,
 Otto Nicolai,[Johann Peter Friedrich Ancillon],Berlin,1833-11-20,"Rettinghaus, Klaus, 2014. Studien zum geistlichen Werk Otto Nicolais. Berlin. ISBN 978-3-7375-1116-2",,6,,"D-Bga III. HA MdA, I Nr. 11567",,118587684,http://www.geonames.org/2950159,118645110,
-Otto Nicolai,Alvensleben,Leipzig,1833-12-15,,,,,?,,118587684,http://www.geonames.org/2879139,,unbekannt (Erwähnt in „Tagebücher“ S.10)
-Otto Nicolai,Horac,Leipzig,1833-12-15,,,,,?,,118587684,http://www.geonames.org/2879139,,unbekannt (Erwähnt in „Tagebücher“ S.10)
+Otto Nicolai,[Albrecht von Alvensleben],Leipzig,1833-12-15,,,,,?,,118587684,http://www.geonames.org/2879139,,"Nachweis: Tagebücher, S. 10"
+Otto Nicolai,Horac,Leipzig,1833-12-15,,,,,?,,118587684,http://www.geonames.org/2879139,,"Nachweis: Tagebücher, S. 10"
 Otto Nicolai,Breitkopf & Härtel,München,1833-12-18,"Kruse, Georg Richard, 1906. Otto Nicolai in Leipzig. In: Die Sängerhalle. 46, S. 274f, 286f, 298f.",286,,,?,,118587684,http://www.geonames.org/2867714,64766-4,
 Otto Nicolai,Carl Nicolai,München,1833-12-19/1833-12-28,"Altmann, Wilhelm, Hrsg., 1924. Otto Nicolai: Briefe an seinen Vater. Regensburg, G. Bosse.",47–54,13,,"D-B Mus.ep. Nicolai, O. 24",DE-611-HS-2637341,118587684,http://www.geonames.org/2867714,138233438,an Carl Nicolai in Berlin; erworben 1915
 Otto Nicolai,Carl Nicolai,Rom,1834-03-01/1834-03-10,"Altmann, Wilhelm, Hrsg., 1924. Otto Nicolai: Briefe an seinen Vater. Regensburg, G. Bosse.",54–95,14,,"D-B Mus.ep. Nicolai, O. 25",DE-611-HS-1759110,118587684,http://www.geonames.org/3169070,138233438,eingelegt Brieflein Bunsens an Otto Nicolai mit Dank für die Choräle
@@ -63,7 +63,7 @@ Otto Nicolai,[Graf Wilhelm von Redern],Rom,1834-05-16,"Rettinghaus, Klaus, 2014.
 Otto Nicolai,[Carl Nicolai],Rom,1834-05-25/1834-05-30,"Altmann, Wilhelm, Hrsg., 1924. Otto Nicolai: Briefe an seinen Vater. Regensburg, G. Bosse.",95–101,15,,"D-B Mus.ep. Nicolai, O. 28",DE-611-HS-2637348,118587684,http://www.geonames.org/3169070,138233438,ohne Adresse
 Otto Nicolai,Raimund Härtel,[Rom],1834-05-27,,,,,?,,118587684,http://www.geonames.org/3169070,117738131,lateinischer Text zur Weihnachtsouvertüre; erwähnt in Brief v. 21.4.1835
 Otto Nicolai,Henriette Kemnitz,Rom,1834-05-27/1834-05-31,"Altmann, Wilhelm, Hrsg., 1937. Otto Nicolais Tagebücher. Regensburg, G. Bosse.",283–288,,,"D-B Mus.ep. Nicolai, O. 29",DE-611-HS-2637350,118587684,http://www.geonames.org/3169070,,"Post Scriptum vom 31. Mai, lag dem Brief an den Vater bei."
-Otto Nicolai,Prinzessin Auguste von Preußen,Rom,1834-08-14,,,,,?,,118587684,http://www.geonames.org/3169070,118651102,erwähnt in „Tagebücher“ S. 70
+Otto Nicolai,Prinzessin Auguste von Preußen,Rom,1834-08-14,,,,,?,,118587684,http://www.geonames.org/3169070,118651102,"Nachweis: Tagebücher, S. 70"
 Otto Nicolai,Carl Nicolai,Frascati,1834-09-04,,,,"Henrici 134 (1928), S. 48",S-Smf 5679,,118587684,http://www.geonames.org/3176589,138233438,
 Otto Nicolai,Carl Friedrich Rungenhagen,Frascati,1834-09-18,,,,,D-Bsa N.Mus. SA 478,,118587684,http://www.geonames.org/3176589,116707801,
 Otto Nicolai,Raphael Georg Kiesewetter,Rom,1834-09-18,"Rieger, Erwin, 1962. Zwei Briefe Otto Nicolais an Raphael Georg Kiesewetter. In: Studien zur Musikwissenschaft. 25, S. 434–439. ISSN 0930-9578",435,,,A-GÖ,,118587684,http://www.geonames.org/3169070,118722239,
@@ -404,6 +404,7 @@ Otto Nicolai,Carl Friedrich Rungenhagen,Berlin,1849-01-03,,,,,D-Bsa N.Mus. SA 48
 Otto Nicolai,Johann Elßler,[Berlin],1849-02-02,,,,"Kotte 43 (2011), S. 215",?,,118587684,http://www.geonames.org/2950159,1036903699,
 Otto Nicolai,Verlag Bartholf Senff,[Berlin],1849-02-07,Signale für die musikalische Welt 7 (1849),71,,,?,,118587684,http://www.geonames.org/2950159,1073087417,
 Otto Nicolai,[Eduard Hallberger],[Berlin],1849-02-19,,,,"Stargardt 680 (2004), S. 356",D-B 55 Ep 515,,118587684,http://www.geonames.org/2950159,118545124,Betr: Übernahme von Werken in Kommission
+Otto Nicolai,,[Berlin],1849-02-20,,,,,S-Smf 5688,,118587684,http://www.geonames.org/2950159,,
 Otto Nicolai,Karl Theodor von Küstner,Berlin,1849-02-21,"Kapp, Julius, 1937. Geschichte der Staatsoper Berlin. Berlin, M. Hesse.",65,,,?,,118587684,http://www.geonames.org/2950159,116611316,
 Otto Nicolai,Leopold Ganz,Berlin,1849-03-01,,,,Bassenge Mai 1976,?,,118587684,http://www.geonames.org/2950159,116419210,
 Otto Nicolai,Franz Liszt,Berlin,1849-03-03,,,,,"D-WRgs GSA 59/24,12",,118587684,http://www.geonames.org/2950159,118573527,"Faksimile: Musikalische Aufsätze, 7–10"
