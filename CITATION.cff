@@ -5,6 +5,7 @@ authors:
     given-names: Klaus
     orcid: https://orcid.org/0000-0003-1898-2543
 title: "The Correspondence of Otto Nicolai"
+abstract: "Metadata set of Otto Nicolai's complete known correspondence."
 type: dataset
 version: v1.7.2
 doi: 10.5281/zenodo.1195470
