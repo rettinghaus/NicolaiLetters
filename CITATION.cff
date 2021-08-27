@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata from this file."
+authors:
+  - family-names: Rettinghaus
+    given-names: Klaus
+    orcid: https://orcid.org/0000-0003-1898-2543
+title: "The Correspondence of Otto Nicolai"
+type: dataset
+version: v1.7.2
+doi: 10.5281/zenodo.1195470
+license: CC-BY-4.0
+date-released: 2019-09-22
