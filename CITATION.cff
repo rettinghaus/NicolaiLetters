@@ -1,13 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it using the metadata from this file."
-authors:
-  - family-names: Rettinghaus
-    given-names: Klaus
-    orcid: https://orcid.org/0000-0003-1898-2543
-title: "The Correspondence of Otto Nicolai"
-abstract: "Metadata set of Otto Nicolai's complete known correspondence."
+title: The Correspondence of Otto Nicolai
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
 type: dataset
-version: v1.7.2
-doi: 10.5281/zenodo.1195470
+authors:
+  - given-names: Klaus
+    family-names: Rettinghaus
+    orcid: 'https://orcid.org/0000-0003-1898-2543'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1195470
+    description: Zenodo
+repository-code: 'https://github.com/rettinghaus/NicolaiLetters'
+abstract: >-
+  Metadata set of Otto Nicolai's complete known
+  correspondence.
+keywords:
+  - correspondence
+  - letters
+  - 19th century
+  - composer
+  - TEI
 license: CC-BY-4.0
-date-released: 2019-09-22
+version: 1.7.2
+date-released: '2019-09-22'
