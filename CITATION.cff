@@ -12,6 +12,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.1195470
     description: Zenodo
+  - type: url
+    value: 'https://rettinghaus.github.io/NicolaiLetters/NicolaiLetters.xml'
+    description: CMIF
 repository-code: 'https://github.com/rettinghaus/NicolaiLetters'
 abstract: >-
   Metadata set of Otto Nicolai's complete known
@@ -23,5 +26,4 @@ keywords:
   - composer
   - TEI
 license: CC-BY-4.0
-version: 1.7.2
-date-released: '2019-09-22'
+version: 1.8.0
