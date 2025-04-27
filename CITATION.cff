@@ -15,7 +15,7 @@ identifiers:
     description: Zenodo
   - type: url
     value: 'https://rettinghaus.github.io/NicolaiLetters/NicolaiLetters.xml'
-    description: CMIF
+    description: "The CMIF file of the metadata set"
 repository-code: 'https://github.com/rettinghaus/NicolaiLetters'
 abstract: >-
   Metadata set of Otto Nicolai's complete known
